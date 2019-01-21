@@ -63,3 +63,4 @@ Also remember to add this to the `Vessel` class.
 You should demonstrate that the classes work as intended in a program thas has a collection of vessels (remember to create various types of vessels within the collection) by iterating over the collection and calling each objects `ToString()` method.
 
 You should also add relevant unit tests to the project, by for example using [xUnit](https://xunit.github.io/docs/getting-started-dotnet-core).
+# internship_dualog
