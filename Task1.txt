@@ -1,0 +1,7 @@
+__Q1:__ The purpose behind the private fields 'name' amd 'yearBuilt' 
+having methodes for getting their values. Is that the fields are private for 
+the class Vessel, and cn only be accessed from inside the same class. 
+
+
+__Q2:___ The concept behind overrinding the 'ToString()' methode is
+called 
