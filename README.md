@@ -41,7 +41,6 @@ __Q2:__ What is the concept behind overriding the `ToString()` method called?
 ## Task 2 - Programming
 
 The `Vessel` class _constructor_ should be responsible for setting the ships name and year built. Since our fleet manager does not like old vessels, so you will have to throw a `OldShipException` exception when somone creates a vessel with the age over 20 years (tip: she does not like the name NULL either).
-
 The vessels should have these characteristics to them:
 
 * The `Ferry` class should have an additional public property: passengers.
