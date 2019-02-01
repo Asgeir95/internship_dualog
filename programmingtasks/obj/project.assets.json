@@ -5859,11 +5859,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/asgeir/Documents/internship-assignment/programmingtasks/programmingtasks.csproj",
+      "projectUniqueName": "/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/programmingtasks.csproj",
       "projectName": "programmingtasks",
-      "projectPath": "/home/asgeir/Documents/internship-assignment/programmingtasks/programmingtasks.csproj",
+      "projectPath": "/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/programmingtasks.csproj",
       "packagesPath": "/home/asgeir/.nuget/packages/",
-      "outputPath": "/home/asgeir/Documents/internship-assignment/programmingtasks/obj/",
+      "outputPath": "/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

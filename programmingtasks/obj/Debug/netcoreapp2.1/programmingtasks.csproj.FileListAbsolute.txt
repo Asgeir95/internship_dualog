@@ -12,3 +12,17 @@
 /home/asgeir/Documents/internship-assignment/programmingtasks/obj/Debug/netcoreapp2.1/programmingtasks.AssemblyInfo.cs
 /home/asgeir/Documents/internship-assignment/programmingtasks/obj/Debug/netcoreapp2.1/programmingtasks.dll
 /home/asgeir/Documents/internship-assignment/programmingtasks/obj/Debug/netcoreapp2.1/programmingtasks.pdb
+/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/bin/Debug/netcoreapp2.1/programmingtasks.deps.json
+/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/bin/Debug/netcoreapp2.1/programmingtasks.runtimeconfig.json
+/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/bin/Debug/netcoreapp2.1/programmingtasks.runtimeconfig.dev.json
+/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/bin/Debug/netcoreapp2.1/programmingtasks.dll
+/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/bin/Debug/netcoreapp2.1/programmingtasks.pdb
+/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/obj/Debug/netcoreapp2.1/programmingtasks.csprojAssemblyReference.cache
+/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/obj/Debug/netcoreapp2.1/programmingtasks.csproj.CoreCompileInputs.cache
+/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/obj/Debug/netcoreapp2.1/programmingtasks.AssemblyInfoInputs.cache
+/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/obj/Debug/netcoreapp2.1/programmingtasks.AssemblyInfo.cs
+/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/obj/Debug/netcoreapp2.1/programmingtasks.dll
+/home/asgeir/Documents/Programmering/internship_dualog/programmingtasks/obj/Debug/netcoreapp2.1/programmingtasks.pdb
